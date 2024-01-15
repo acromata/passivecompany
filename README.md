@@ -1,4 +1,4 @@
-# passivecompany
+# Passive Company
 A remake of Lethal Company, made in 72 hours
 
 # Woah, you're stealing Lethal Company?? >:(
